@@ -5,4 +5,11 @@
 
 
 
-In this repository Image retrieval is applied
+In this repository Image retrieval is implemented using Pytorch.
+
+### Pre-requisites
+In order to run the code you will need:
+
+    ..* Python3
+    ..* Pytorch (0.4>)
+    ..*  
