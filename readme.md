@@ -1,5 +1,4 @@
 # Simple Image Retrieval in Pytorch
-
 ----
  
  This repository is about building a Image Retrieval code. 
