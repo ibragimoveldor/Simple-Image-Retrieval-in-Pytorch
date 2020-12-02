@@ -1,5 +1,5 @@
-# Simple Image Retrieval with Pytorch
+# Simple Image Retrieval in Pytorch
  This repository is about building a Image Retrieval code. 
-H1
+Alt-H1
 
 In this repository Image retrieval is applied
